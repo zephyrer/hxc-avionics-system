@@ -14,7 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
     </Filter>
     <Filter Include="classes">
-      <UniqueIdentifier>{23a3565e-272c-4d5d-b36e-0edeb6317f30}</UniqueIdentifier>
+      <UniqueIdentifier>{d086536f-ce26-419a-ab52-d7485dba0388}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
